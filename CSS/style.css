@@ -293,3 +293,31 @@ li{
     border: 1px dashed black;
     margin: 25px 0;
 }
+
+.foot-container{
+    max-width: 100%;
+    margin: 0;
+}
+
+.foot-side{
+    align-items: center;
+    width: 50%;
+    padding: 5px;
+}
+
+.foot-pad-left{
+    padding-left: 250px;
+}
+
+.foot-pad-right{
+    padding-right: 170px;
+}
+
+.foot-btn-purple{
+    height: 30px;
+    width: 100px;
+    background-color: #6374b7;
+    border-radius: 20px;
+    color: #fff;
+    border: 1px solid #6374b7;
+}
