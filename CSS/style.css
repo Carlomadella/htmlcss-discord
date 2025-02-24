@@ -30,12 +30,8 @@ header{
     padding: 10px;
 }
 
-.dash-link{
+.txt-align-center{
     text-align: center;
-}
-
-.dash-content{
-    color: #fff;
 }
 
 .dash-btn{
@@ -60,12 +56,49 @@ li{
     text-align: right;
 }
 
-.sfondo-blu{
-    background-color: #00018B;
+.bg-image{
+    background-image: url(../img/jumbo.png);
+    background-size:cover;
+    background-repeat: no-repeat;
 }
 
-.sfondo-rosa{
-    background-color: #E07BDF;
+.color-white{
+    color: #fff;
+}
+
+.pad-20{
+    padding: 20px;
+}
+
+
+
+.jmb-btn-white{
+    margin: 30px;
+    height: 45px;
+    width: 150px;
+    background-color: #fff;
+    border-radius: 20px;
+    color: #000;
+    border: 1px solid #fff;
+}
+
+.jmb-btn-black{
+    margin: 30px;
+    height: 45px;
+    width: 200px;
+    background-color: #000;
+    border-radius: 20px;
+    color: #fff;
+}
+
+.fit-img {
+    width: 490px;
+    margin: 0 0 0 250px;
+}
+
+.h2-txt {
+    margin: 0 150px 0 0px;
+    word-wrap: break-word;
 }
 
 .contenitore{
