@@ -93,12 +93,22 @@ li{
 
 .fit-img {
     width: 490px;
-    margin: 0 0 0 250px;
+    margin-left: 250px;
 }
 
-.h2-txt {
-    margin: 0 150px 0 0px;
-    word-wrap: break-word;
+.fit-img-second-sec{
+    height: 300px;
+    width: 490px;
+    margin-left: 50px;
+}
+
+.mrg-right {
+    margin-right: 150px;
+   
+}
+
+.mrg-left {
+    margin-left: 250px;
 }
 
 .contenitore{
