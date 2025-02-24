@@ -2,10 +2,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 header{
-    background-color: aqua;
+    background-color: #255EE9;
     padding: 20px 0;
 }
 
@@ -18,24 +19,32 @@ header{
     margin: 0 auto;
 }
 
-.bg-color-yellow{
-    background-color: yellow;
-}
-
 .dash-side{
+    align-items: center;
     width: 20%;
-    border: 1px dashed black;
     padding: 5px;
 }
 
 .dash-pt-mid{
     width: 60%;
-    border: 1px dashed black;
-    padding: 5px;
+    padding: 10px;
 }
 
 .dash-link{
     text-align: center;
+}
+
+.dash-content{
+    color: #fff;
+}
+
+.dash-btn{
+    height: 30px;
+    width: 70px;
+    background-color: #fff;
+    border-radius: 20px;
+    color: #000;
+    border: 1px solid #fff;
 }
 
 ul{
@@ -66,7 +75,6 @@ li{
 
 .contenuto{
     height: 300px;
-    border: 1px dashed black;
     margin: 20px 0;
 }
 
